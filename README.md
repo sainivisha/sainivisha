@@ -33,12 +33,12 @@ Eager to apply my knowledge, learn new technologies, and contribute to meaningfu
 ---
 
 ## 🚀 Projects Highlights
+ 
+- 📦 [**Blinkit Clone**](https://github.com/sainivisha/Blinkit_Clone) — Real-time Blinkit Clone using **Flutter + Firebase**  
+- ⚡ [**Webhook-SQL-SpringBoot**](https://github.com/sainivisha/webhook-sql-springboot) — Automating SQL challenges with **Spring Boot**  
+- 🛒 [**E-commerce Website**](https://github.com/sainivisha/ecommerce-website) — Responsive **React.js + Spring Boot** app for online shopping  
+- 🎨 [**Whiteboard Tool**](https://github.com/sainivisha/whiteboard-tool) — Collaborative **React.js** app using **HTML Canvas API**, **State Management**, and **React Hooks** for real-time teamwork  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📦 **E-commerce Frontend** | Simple React app with product listing | React.js, CSS |
-| 📱 **Blinkit Clone** | Grocery app with real-time data | Flutter, Firebase |
-| 🔍 **DSA Practice** | Algorithm problems solved | JavaScript, C++, Python |
 
 ---
 
@@ -50,5 +50,21 @@ Eager to apply my knowledge, learn new technologies, and contribute to meaningfu
 
 ---
 
+### 🛠️ Languages and Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nodejs,express,mongodb,flutter,firebase,git,github,vscode,androidstudio&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+
+---
+
 > _“Every expert was once a beginner — I’m excited to grow and build great things!”_ 🚀
+> ✨ Thanks for visiting my profile! Keep coding and building 🌟 
 
