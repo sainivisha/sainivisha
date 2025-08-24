@@ -1,4 +1,4 @@
-# sainivish
+# sainivisha
 <h1 align="center">👋 Hello, I’m Vishaka Saini!</h1>
 <p align="center">
   🎓 MCA Student | 💻 Aspiring Web & App Developer | 🌱 Learning & Growing Every Day
