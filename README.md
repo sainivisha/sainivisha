@@ -20,13 +20,10 @@ Eager to apply my knowledge, learn new technologies, and contribute to meaningfu
 - **Backend:** PHP, MySQL  
 - **Mobile:** Flutter (Dart), Firebase (Authentication, Firestore)  
 - **Tools:** Git, VS Code, Chrome DevTools  
-- **Concepts:** Responsive Design, OOP (PHP), REST APIs (basics)  
+- **Concepts:** Responsive Design, OOP (JS), REST APIs (basics)  
 
 ### 🌱 Currently Learning & Exploring  
 - Advanced React (Hooks, Context API)  
-- Modern PHP frameworks (Laravel basics)  
-- Flutter state management & animations  
-- Firebase cloud functions & hosting  
 - Database optimization & security  
 - Version control workflows & collaboration  
 
