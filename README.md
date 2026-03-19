@@ -37,7 +37,7 @@ I’m eager to learn, collaborate, and contribute to impactful projects.
 
 ## 🚀 Projects Highlights
 
-- 🧠 **NodeBase (AI Workflow Automation)**  
+- 🧠 **StackForge (AI Workflow Automation)**  
   https://github.com/sainivisha/StackForge  
   Full-stack application built with Next.js + TypeScript for creating and automating workflows using AI.  
   Includes modern backend patterns, API handling, and scalable architecture. *(Currently working on)*  
